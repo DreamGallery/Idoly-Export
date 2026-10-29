@@ -1,0 +1,38 @@
+# Local records, exports, tests, and environments
+.agent-local/
+exports/
+tests/
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+
+# Account snapshots, captures, and authentication files
+*.json
+*.jsonl
+*.xml
+*.pb
+*.har
+*.db
+*.sqlite*
+.env*
+config.ini
+*.local
+credentials/
+secrets/
+cookies*.txt
+token*.txt
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Local diagnostics and editor files
+*.log
+*.tmp
+*.bak
+.DS_Store
+.idea/
+.vscode/
