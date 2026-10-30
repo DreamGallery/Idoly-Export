@@ -15,6 +15,13 @@ venv/
 *.har
 *.db
 *.sqlite*
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.octo
+*.unity3d
+*.pack
 .env*
 config.ini
 *.local
